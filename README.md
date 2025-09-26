@@ -1,3 +1,4 @@
+'''mermaid
     graph TB
     %% User Entry Points
     A[Student Opens App/Web] --> B{User Authentication}
@@ -112,3 +113,4 @@
     class J,M,N,O,P,Q,R alertSystem
     class D,AA,BB,CC,DD,EE education
     class UU,VV,WW,XX security
+    '''
