@@ -1,4 +1,4 @@
-    '''mermaid
+    ```mermaid
     
     graph TB
     %% User Entry Points
@@ -114,4 +114,5 @@
     class J,M,N,O,P,Q,R alertSystem
     class D,AA,BB,CC,DD,EE education
     class UU,VV,WW,XX security
-    '''
+    ```
+
