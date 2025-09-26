@@ -1,4 +1,5 @@
-'''mermaid
+    '''mermaid
+    
     graph TB
     %% User Entry Points
     A[Student Opens App/Web] --> B{User Authentication}
