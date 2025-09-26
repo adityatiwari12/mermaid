@@ -1,4 +1,4 @@
-graph TB
+    graph TB
     %% User Entry Points
     A[Student Opens App/Web] --> B{User Authentication}
     A1[Parent Opens Dashboard] --> B
