@@ -1265,7 +1265,7 @@ graph LR
 </td>
 
 <td align="center" width="25%">
-<img src="mishika.jpg" width="150px;" style="border-radius: 50%; border: 3px solid #9C27B0;" alt="Mishika Bagrecha"/><br />
+<img src="mishika .jpg" width="150px;" style="border-radius: 50%; border: 3px solid #9C27B0;" alt="Mishika Bagrecha"/><br />
 <sub><b>🎨 Mishika Bagrecha</b></sub><br />
 <sub>🎓 AITR</sub><br />
 <br />
