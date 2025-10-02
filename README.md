@@ -981,14 +981,14 @@ graph LR
 <tr>
 <td align="center" width="25%">
 <img src="https://github.com/identicons/1.png" width="120px;" style="border-radius: 50%;" alt="Aarushi Shah"/><br />
-<sub><b>Aarushi Shah</b></sub><br />
+<sub><b>Aditya Tiwari</b></sub><br />
 <sub>🎓 AITR</sub><br />
 <br />
 <kbd>AI/ML Engineer</kbd><br />
 <kbd>Full Stack Dev</kbd><br />
 <kbd>App/Web Dev</kbd><br />
 <br />
-<a href="https://github.com/aarushi">
+<a href="https://github.com/adityatiwari12">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/aarushi">
